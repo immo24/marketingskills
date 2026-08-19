@@ -1,6 +1,6 @@
 {
   "name": "marketing-skills",
-  "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
+  "description": "Fork von coreyhaines31/marketingskills. Vollstaendige Sicherung; geladen wird nur das Website-Paket (14 Skills).",
   "version": "2.10.0",
   "author": {
     "name": "Corey Haines"
@@ -8,5 +8,20 @@
   "homepage": "https://github.com/coreyhaines31/marketingskills",
   "repository": "https://github.com/coreyhaines31/marketingskills",
   "license": "MIT",
-  "skills": "./skills"
+  "skills": [
+    "./skills/seo-audit",
+    "./skills/ai-seo",
+    "./skills/schema",
+    "./skills/site-architecture",
+    "./skills/content-strategy",
+    "./skills/copywriting",
+    "./skills/copy-editing",
+    "./skills/cro",
+    "./skills/analytics",
+    "./skills/signup",
+    "./skills/popups",
+    "./skills/lead-magnets",
+    "./skills/social",
+    "./skills/public-relations"
+  ]
 }
