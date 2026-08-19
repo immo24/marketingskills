@@ -1,7 +1,7 @@
 {
   "name": "marketing-skills",
   "description": "Fork von coreyhaines31/marketingskills. Vollstaendige Sicherung; geladen wird nur das Website-Paket (14 Skills).",
-  "version": "2.10.0",
+  "version": "2.10.1",
   "author": {
     "name": "Corey Haines"
   },
