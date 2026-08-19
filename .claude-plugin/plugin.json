@@ -9,19 +9,19 @@
   "repository": "https://github.com/coreyhaines31/marketingskills",
   "license": "MIT",
   "skills": [
-    "./skills/seo-audit",
-    "./skills/ai-seo",
-    "./skills/schema",
-    "./skills/site-architecture",
-    "./skills/content-strategy",
-    "./skills/copywriting",
-    "./skills/copy-editing",
-    "./skills/cro",
-    "./skills/analytics",
-    "./skills/signup",
-    "./skills/popups",
-    "./skills/lead-magnets",
-    "./skills/social",
-    "./skills/public-relations"
+    "./skills-all/seo-audit",
+    "./skills-all/ai-seo",
+    "./skills-all/schema",
+    "./skills-all/site-architecture",
+    "./skills-all/content-strategy",
+    "./skills-all/copywriting",
+    "./skills-all/copy-editing",
+    "./skills-all/cro",
+    "./skills-all/analytics",
+    "./skills-all/signup",
+    "./skills-all/popups",
+    "./skills-all/lead-magnets",
+    "./skills-all/social",
+    "./skills-all/public-relations"
   ]
 }
